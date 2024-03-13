@@ -1,0 +1,8 @@
+
+h1 {
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    /*text-shadow:#000 -1px -1px;*/
+    font-size: 3em; color: red;
+    text-align: center;
+    }
